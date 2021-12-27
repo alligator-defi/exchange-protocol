@@ -13,7 +13,7 @@ module.exports = async function ({ ethers, deployments, getNamedAccounts }) {
       treasury,
       investor,
       "7400000000000000000", // 7.4 GTR per sec
-      "1640113200", // Thu Dec 16 15:00
+      "1640995200", // Sat Jan 1 2022 00:00
       "150", // 15%
       "200", // 20%
       "150", // 15%
