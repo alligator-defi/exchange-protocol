@@ -42,7 +42,7 @@
     "prepublishOnly": "yarn run build"
   },
   "devDependencies": {
-    "@alligator-defi/sdk": "^0.0.1",
+    "@alligator-defi/sdk": "^1.0.0",
     "@nomiclabs/hardhat-ethers": "^2.0.0",
     "@nomiclabs/hardhat-etherscan": "^2.1.7",
     "@nomiclabs/hardhat-solhint": "^2.0.0",

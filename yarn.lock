@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@alligator-defi/sdk@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@alligator-defi/sdk/-/sdk-0.0.1.tgz#8c8048756bd6149dbfac4093b7373fc81b283a82"
-  integrity sha512-DCBUFldfR/TGCE3aUOp46QJRFdzN2jM5Q5d5mvUo0ghGjqO0+ftztwVpJwvQu1x39X7Uhux+DL+qBOrX62/wog==
+"@alligator-defi/sdk@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@alligator-defi/sdk/-/sdk-1.0.0.tgz#86d604e4752c3496de0c6de9b5502fd39d7c63c9"
+  integrity sha512-SlUkmjYbM6K2NBvUso7NnsgqQWxji5hCkGC+c5+ClNXIQHyI7BQTYp7lyTXvp9Y1PM1Vpsh7iFUGdQUSQsw0Uw==
   dependencies:
     "@openzeppelin/cli" "^2.8.2"
     big.js "^5.2.2"
